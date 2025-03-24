@@ -37,7 +37,7 @@ export const Header = () => {
             {/* Right Image Section */}
             <div className="col-12 col-md-6 order-1 order-md-2 order-sm-1">
               <img
-                src="public/hero.jpg"
+                src="/My-img.png"
                 className="hero-img img-fluid rounded-circle border border-light shadow-lg"
                 alt="Hero Profile"
               />
