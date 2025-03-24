@@ -77,7 +77,7 @@ export const Navbar = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1KsrJhMHApTEOsq-ctpU5CqjllJ6MPUIs/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1z1NbTJi-FBv1MeV84FtBdIuMngyhVEtT/view?usp=drive_link"
                   style={{ textDecoration: "none" }}
                 >
                   resume
