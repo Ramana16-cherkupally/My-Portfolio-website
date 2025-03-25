@@ -12,7 +12,7 @@ export const Navbar = () => {
   return (
     <section>
       <header className="shadow-lg bg-dark fixed-top ">
-        <section className="container d-flex flex-wrap align-items-center justify-content-around shadow-lg text-white py-2">
+        <section className="container d-flex flex-wrap align-items-center justify-content-center shadow-lg text-white pt-3">
           <nav className={showmenu ? "menu-items" : "menu-web"}>
             <ul className="bg-dark">
               <li>
@@ -70,7 +70,7 @@ export const Navbar = () => {
                   duration={500}
                   className="nav-link"
                 >
-                  <Link to="contact" style={{ textDecoration: "none" }}>
+                  <Link to="contact">
                     <span>Contact</span>
                   </Link>
                 </ScrollLink>
