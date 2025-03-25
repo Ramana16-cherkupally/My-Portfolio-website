@@ -191,7 +191,7 @@ export const Projects = () => {
                 <div className="project-btn">
                   <a href={Data.Github} style={{ textDecoration: "none" }}>
                     <button
-                      className="btn btn-primary modern-active shadow-lg fs-6 px-2 py-2 w-auto d-flex align-items-center me-2"
+                      className="btn btn-primary modern-active shadow-lg fs-5 px-2 py-2 w-auto d-flex align-items-center me-2"
                       style={{ transition: "0.3s ease-in-out" }}
                       onMouseEnter={(e) =>
                         (e.currentTarget.style.background = "#8E2DE2")
@@ -208,7 +208,7 @@ export const Projects = () => {
                     style={{ textDecoration: "none" }}
                   >
                     <button
-                      className="btn btn-primary modern-active shadow-lg fs-6 px-2 py-2 w-auto w-auto  d-flex align-items-center"
+                      className="btn btn-primary modern-active shadow-lg fs-5 px-2 py-2 w-auto w-auto  d-flex align-items-center"
                       style={{
                         transition: "0.3s ease-in-out",
                       }}
